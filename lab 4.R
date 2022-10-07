@@ -81,5 +81,5 @@ lines(yhat ~ AGE, data = to_be_predicted2)
 
 detach()
 
-After reviewing, it seems that the derivative of the regression line is negative. Which means that Veteran status income was lower than teh average income.
+After reviewing, it seems that the derivative of the regression line is negative. Which means that Veteran status income was lower than the average income.
 If this data was extended to the rest of the US, I still believe that Vet status would affect income
